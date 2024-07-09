@@ -2,7 +2,7 @@
 
 # 🌟 **My Links:** 🌟
 
-🐦 **my twitter** 🐦 - [twitter](https://x.com/JBTGrox) | 🔐 **my keybase** 🔐 - [keybase](https://keybase.io/jamesbrandon) | 💼 **my medium** 💼 - [medium](https://medium.com/@James_Brandon)
+🐦 **my twitter** 🐦 - [twitter](https://x.com/JBTGrox) | 🔐 **my keybase** 🔐 - [keybase](https://keybase.io/jamesbrandon) | 💼 **my medium** 💼 - [medium](https://medium.com/@James_Brandon) | **my discord username** - @.jamesbrandon
 
 **OR**
 
