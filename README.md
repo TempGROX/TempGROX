@@ -29,3 +29,7 @@ I believe in the transformative power of blockchain technology. My goal is to co
 If you're passionate about blockchain technology and looking for a collaborator who shares your vision for the future, feel free to reach out. Together, we can build a more connected and secure digital world.
 
 Thank you for visiting my profile. Let's innovate and inspire the world of crypto together!
+
+# 🌟 **My Projects** 🌟
+
+**0g_labs** | **Side Protocol** | **Nodes Guru** | **Camp** | **morph** 
