@@ -32,4 +32,4 @@ Thank you for visiting my profile. Let's innovate and inspire the world of crypt
 
 # 🌟 **My Projects** 🌟
 
-**0g_labs** | **Side Protocol** | **Nodes Guru** | **Camp** | **morph** 
+**0g_labs** | **Side Protocol** | **morph** 
