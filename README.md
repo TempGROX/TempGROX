@@ -21,7 +21,7 @@
 </div>
 <br>
 
-<h1>About Me</h1>
+<h1>About Me <img src="https://giphy.com/embed/hvRJCLFzcasrR4ia7z"</h1>
 
 🔧 I'm JBrandon, a dedicated professional who specializes in maintaining validator nodes across various testnets. My passion lies in ensuring the stability and security of blockchain infrastructure.
 
