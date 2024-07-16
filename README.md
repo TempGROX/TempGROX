@@ -33,3 +33,9 @@ Thank you for visiting my profile. Let's innovate and inspire the world of crypt
 # 🌟 **My Projects** 🌟
 
 **0g_labs** | **Side Protocol** | **morph** 
+
+<section align=center>
+  <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(1).png">
+  <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica.png">
+  <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(2).png">
+</section>
