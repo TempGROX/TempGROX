@@ -30,7 +30,7 @@
 - **Software Development:** Proficient in Go and Python, I develop software that powers the future of decentralized applications.
 
 <h1>Projects that I am actively involved in</h1>
-<table>
+<table align="center">
   <tr align="center">
     <td align="center">
       <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(1).png" width="150">
