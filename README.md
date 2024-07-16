@@ -33,16 +33,22 @@
 <table align="center">
   <tr align="center">
     <td align="center">
-      <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(1).png" width="150">
-      <p>Side Protocol</p>
+      <a href="https://side.one/">
+        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(1).png" width="150">
+        <p>Side Protocol</p>
+      </a>
     </td>
     <td align="center">
-      <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica.png" width="150">
-      <p>og_labs</p>
+      <a href="https://0g.ai/">
+        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica.png" width="150">
+        <p>og_labs</p>
+      </a>
     </td>
     <td align="center">
-      <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(2).png" width="150">
-      <p>Another Project</p>
+      <a href="https://www.morphl2.io/">
+        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(2).png" width="150">
+        <p>Morph</p>
+      </a>
     </td>
   </tr>
 </table>
