@@ -52,7 +52,7 @@ I believe in the transformative power of blockchain technology. My goal is to co
     <td align="center">
       <a href="https://www.morphl2.io/">
         <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(2).png" width="150">
-        <strong>Morph</strong>
+        <p><strong>Morph</strong></p>
       </a>
     </td>
   </tr>
