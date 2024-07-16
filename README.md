@@ -35,7 +35,10 @@
   <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(1).png" width="150" hspace="50">
     <p>Side Protocol</p>
   </div>
+  <div>
   <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica.png" width="150" hspace="50">
+    <p>og_labs</p>
+  </div>
   <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(2).png" width="150" hspace="50">
   <br>
 </section>
