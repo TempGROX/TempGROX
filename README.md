@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://avatars.githubusercontent.com/u/109657439?v=4" width="100"/>
 </div>
-
+<br>
 <div id="badges" align="center">
   <a href="https://discord.com/users/961408999411048461">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=https%3A%2F%2Fimg.icons8.com%2Fios%2F50%2Fmedium-logo.png&logoColor=white" alt="LinkedIn Badge"/>
