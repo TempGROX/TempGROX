@@ -23,7 +23,7 @@
 
 <h1>About Me</h1>
 
-🔧 I'm JBrandon, a dedicated professional who specializes in maintaining validator nodes across various test networks. My passion lies in ensuring the stability and security of blockchain infrastructure.
+🔧 I'm JBrandon, a dedicated professional who specializes in maintaining validator nodes across various testnets. My passion lies in ensuring the stability and security of blockchain infrastructure.
 
 👨‍💻 With a strong background in software development, I craft robust solutions using **Go** and **Python**. My work is driven by a commitment to innovation and excellence in the crypto space.
 
