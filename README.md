@@ -31,7 +31,7 @@
 
 <h1>Projects that I am actively involved in</h1>
 <table>
-  <tr>
+  <tr align="center">
     <td align="center">
       <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(1).png" width="150">
       <p>Side Protocol</p>
