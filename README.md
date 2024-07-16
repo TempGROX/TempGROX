@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge&logo=https%3A%2F%2Fimg.icons8.com%2Fios%2F50%2Fmedium-logo.png&logoColor=white">
   </a>
 </div>
+<br>
 
 🔧 I'm JBrandon, a dedicated professional who specializes in maintaining validator nodes across various test networks. My passion lies in ensuring the stability and security of blockchain infrastructure.
 
@@ -30,8 +31,8 @@
 - 
 <h1>Projects that I am actively involved in</h1>
 <section align=center>
-  <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(1).png" width="150">
-  <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica.png" width="150">
+  <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(1).png" width="150" style="margin-right: 10px;">
+  <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica.png" width="150" style="margin-right: 10px;">
   <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(2).png" width="150">
   <br>
 </section>
