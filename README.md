@@ -29,6 +29,14 @@
 - **Validator Node Maintenance:** Hands-on experience with multiple testnets, ensuring optimal performance and reliability.
 - **Software Development:** Proficient in Go and Python, I develop software that powers the future of decentralized applications.
 
+💡 **Vision:**
+I believe in the transformative power of blockchain technology. My goal is to contribute to a decentralized world where security, transparency, and efficiency are paramount.
+
+🤝 **Let's Connect:**
+If you're passionate about blockchain technology and looking for a collaborator who shares your vision for the future, feel free to reach out. Together, we can build a more connected and secure digital world.
+
+Thank you for visiting my profile. Let's innovate and inspire the world of crypto together!
+
 <h1>Projects that I am actively involved in</h1>
 <table align="center">
   <tr align="center">
@@ -53,11 +61,3 @@
   </tr>
 </table>
 <br>
-  
-💡 **Vision:**
-I believe in the transformative power of blockchain technology. My goal is to contribute to a decentralized world where security, transparency, and efficiency are paramount.
-
-🤝 **Let's Connect:**
-If you're passionate about blockchain technology and looking for a collaborator who shares your vision for the future, feel free to reach out. Together, we can build a more connected and secure digital world.
-
-Thank you for visiting my profile. Let's innovate and inspire the world of crypto together!
