@@ -30,18 +30,22 @@
 - **Software Development:** Proficient in Go and Python, I develop software that powers the future of decentralized applications.
 
 <h1>Projects that I am actively involved in</h1>
-<section align=center>
-  <div>
-  <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(1).png" width="150" hspace="50">
-    <p>Side Protocol</p>
-  </div>
-  <div>
-  <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica.png" width="150" hspace="50">
-    <p>og_labs</p>
-  </div>
-  <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(2).png" width="150" hspace="50">
-  <br>
-</section>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(1).png" width="150">
+      <p>Side Protocol</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica.png" width="150">
+      <p>og_labs</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(2).png" width="150">
+      <p>Another Project</p>
+    </td>
+  </tr>
+</table>
 
 💡 **Vision:**
 I believe in the transformative power of blockchain technology. My goal is to contribute to a decentralized world where security, transparency, and efficiency are paramount.
