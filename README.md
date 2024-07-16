@@ -60,7 +60,7 @@ I believe in the transformative power of blockchain technology. My goal is to co
 <br>
 
 <h1>My guides:</h1>
-I suggest you use the project guides that I have compiled myself especially for you! I hope they will help you become full-fledged participants in networks!
+I suggest you use the project guides that I have compiled myself especially for you! I hope they will help you become full-fledged participants in networks! If the guide was useful to you, then you can let me know about it on my social networks
 
 <div align="center">
   <br>
