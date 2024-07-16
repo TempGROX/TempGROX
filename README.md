@@ -28,7 +28,7 @@
 🛠️ **Experience:**
 - **Validator Node Maintenance:** Hands-on experience with multiple testnets, ensuring optimal performance and reliability.
 - **Software Development:** Proficient in Go and Python, I develop software that powers the future of decentralized applications.
-- 
+
 <h1>Projects that I am actively involved in</h1>
 <section align=center>
   <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(1).png" width="150" hspace="50">
