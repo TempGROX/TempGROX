@@ -32,7 +32,7 @@
 <h1>Projects that I am actively involved in</h1>
 <table align="center">
   <tr align="center">
-    <td align="center">
+    <td align="center" hspace="30">
       <a href="https://side.one/">
         <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(1).png" width="150">
         <p>Side Protocol</p>
