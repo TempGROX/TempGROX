@@ -23,15 +23,6 @@
 
 # JBrandon - Validator Node Specialist & Software Developer
 
-# 🌟 **My Links:** 🌟
-
-🐦 **my twitter** 🐦 - [twitter](https://x.com/JBTGrox) | 🔐 **my keybase** 🔐 - [keybase](https://keybase.io/jamesbrandon) | 💼 **my medium** 💼 - [medium](https://medium.com/@James_Brandon) | **my discord username** - @.jamesbrandon
-
-**OR**
-
-🌴 **my linktree** 🌴 - [tree](https://linktr.ee/JBrandon_)
-
-# 🌟 **Welcome to my GitHub profile!** 🌟
 
 🔧 I'm JBrandon, a dedicated professional who specializes in maintaining validator nodes across various test networks. My passion lies in ensuring the stability and security of blockchain infrastructure.
 
