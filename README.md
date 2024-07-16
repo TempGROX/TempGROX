@@ -20,10 +20,6 @@
   </a>
 </div>
 
-
-# JBrandon - Validator Node Specialist & Software Developer
-
-
 🔧 I'm JBrandon, a dedicated professional who specializes in maintaining validator nodes across various test networks. My passion lies in ensuring the stability and security of blockchain infrastructure.
 
 👨‍💻 With a strong background in software development, I craft robust solutions using **Go** and **Python**. My work is driven by a commitment to innovation and excellence in the crypto space.
@@ -32,9 +28,12 @@
 - **Validator Node Maintenance:** Hands-on experience with multiple testnets, ensuring optimal performance and reliability.
 - **Software Development:** Proficient in Go and Python, I develop software that powers the future of decentralized applications.
 
-🚀 **Projects:**
-- **Testnet Contributions:** Actively involved in testnet operations, contributing to the growth and development of emerging blockchain technologies.
-- **Open Source Software:** Committed to the open-source community, contributing to projects that push the boundaries of crypto software.
+<section align=center>
+  <h1>Projects that I am actively involved in</h1>
+  <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(1).png">
+  <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica.png">
+  <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(2).png">
+</section>
 
 💡 **Vision:**
 I believe in the transformative power of blockchain technology. My goal is to contribute to a decentralized world where security, transparency, and efficiency are paramount.
@@ -43,14 +42,3 @@ I believe in the transformative power of blockchain technology. My goal is to co
 If you're passionate about blockchain technology and looking for a collaborator who shares your vision for the future, feel free to reach out. Together, we can build a more connected and secure digital world.
 
 Thank you for visiting my profile. Let's innovate and inspire the world of crypto together!
-
-# 🌟 **My Projects** 🌟
-
-**0g_labs** | **Side Protocol** | **morph** 
-
-<section align=center>
-  <h1>Projects that I am actively involved in</h1>
-  <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(1).png">
-  <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica.png">
-  <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(2).png">
-</section>
