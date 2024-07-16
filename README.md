@@ -62,7 +62,7 @@ I believe in the transformative power of blockchain technology. My goal is to co
 <h1>My guides:</h1>
 I suggest you use the project guides that I have compiled myself especially for you! I hope they will help you become full-fledged participants in networks!
 
-<div>
+<div align="center">
   <br>
   <a>
     <img src="https://img.shields.io/badge/My%20Side%20Protocol%20Guide-black?style=for-the-badge&logo=https%3A%2F%2Fimg.icons8.com%2Fios%2F50%2Fmedium-logo.png&logoColor=white">
