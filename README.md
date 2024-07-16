@@ -47,6 +47,22 @@
   </tr>
 </table>
 
+<h1>Projects that I am actively involved in</h1>
+<section align="center">
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(1).png" width="150">
+    <p>Side Protocol</p>
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica.png" width="150">
+    <p>og_labs</p>
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(2).png" width="150">
+    <p>Another Project</p>
+  </div>
+</section>
+
 💡 **Vision:**
 I believe in the transformative power of blockchain technology. My goal is to contribute to a decentralized world where security, transparency, and efficiency are paramount.
 
