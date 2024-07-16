@@ -40,19 +40,19 @@ I believe in the transformative power of blockchain technology. My goal is to co
     <td align="center" hspace="30">
       <a href="https://side.one/">
         <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(1).png" width="150">
-        <p>Side Protocol</p>
+        <strong>Side Protocol</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://0g.ai/">
         <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica.png" width="150">
-        <p>og_labs</p>
+        <strong>og_labs</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://www.morphl2.io/">
         <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(2).png" width="150">
-        <p>Morph</p>
+        <strong>Morph</strong>
       </a>
     </td>
   </tr>
