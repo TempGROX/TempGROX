@@ -93,7 +93,7 @@
 </table>
 <br>
 
-<h1>My guides:</h1>
+<h1 align=center>My guides:</h1>
 I suggest you use the project guides that I have compiled myself especially for you! I hope they will help you become full-fledged participants in networks! If the guide was useful to you, then you can let me know about it on my social networks
 
 <table align=center>
