@@ -131,7 +131,7 @@
       </a>
     </td>
     <td>
-      <a>
+      <a href="https://github.com/TempGROX/Create-Side-Protocol-Validator/blob/main/README.md">
         <img src="https://img.shields.io/badge/How%20to%20create%20Validator-black?style=for-the-badge">
       </a>
     </td>
