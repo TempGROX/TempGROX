@@ -45,8 +45,20 @@
     </td>
     <td align=center>
       <a href="https://testnet.side.explorers.guru/validator/bcvaloper1sd62r6kexzc0q6wvhpkgtmm6w8xlsrenhra6ea">
-        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/images.png">
+        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/images.png" width="200">
         <p><strong>My Side Protocol Validator</strong></p>
+      </a>
+    </td>
+    <td align=center>
+      <a href="https://explorer.stavr.tech/Lava-Testnet/staking/lava@valoper1lwyx7akkma0kyejl2tkltw0uekvppez34f6tfq">
+        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/l4oqDz8R_200x200.jpg">
+        <p><strong>My Lava Validator</strong></p>
+      </a>
+    </td>
+    <td align=center>
+      <a href="https://genesis.mcnscan.io/chain/6C1AMjvuSpM2ZYjSYHeVyTmuERwQKRCbqMAxhQybWohv9PdaL">
+        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/juneo-200x200.png">
+        <p><strong>My Juneo Validator</strong></p>
       </a>
     </td>
   </tr>
