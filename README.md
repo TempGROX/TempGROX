@@ -113,7 +113,11 @@ I suggest you use the project guides that I have compiled myself especially for 
         <img src="https://img.shields.io/badge/My%20Morph%20guide-green?style=for-the-badge&logo=https%3A%2F%2Fimg.icons8.com%2Fios%2F50%2Fmedium-logo.png&logoColor=white">
       </a>
     </td>
-    <td></td>
+    <td>
+      <a>
+        <img src="https://img.shields.io/badge/INITIA%20Install%20Gude-black?style=for-the-badge">
+      </a>
+    </td>
   </tr>
   <tr align=center>
     <td>
