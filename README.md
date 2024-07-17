@@ -116,7 +116,7 @@ I suggest you use the project guides that I have compiled myself especially for 
     </td>
     <td>
       <a href="https://github.com/TempGROX/my_morph_guide/blob/main/README.md">
-        <img src="https://img.shields.io/badge/My%20Morph%20guide-green?style=for-the-badge&logo=https%3A%2F%2Fimg.icons8.com%2Fios%2F50%2Fmedium-logo.png&logoColor=white">
+        <img src="https://img.shields.io/badge/Install%20Morph%20Node-green?style=for-the-badge">
       </a>
     </td>
     <td>
@@ -136,7 +136,11 @@ I suggest you use the project guides that I have compiled myself especially for 
         <img src="https://img.shields.io/badge/How%20to%20create%20Validator-black?style=for-the-badge">
       </a>
     </td>
-    <td></td>
+    <td>
+      <a>
+        <img src="https://img.shields.io/badge/Install%20Morph%20Validator%20Node-green?style=for-the-badge">
+      </a>
+    </td>
     <td></td>
   </tr>
   <tr align=center>
