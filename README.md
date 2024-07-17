@@ -119,6 +119,17 @@ I suggest you use the project guides that I have compiled myself especially for 
         <img src="https://img.shields.io/badge/My%20Full%200G%20DA%20Guide-purple?style=for-the-badge">
       </a>
     </td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <a>
+        <img src="https://img.shields.io/badge/0G%20Storage%20Install%20Gude-purple?style=for-the-badge">
+      </a>
+    </td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
