@@ -103,8 +103,13 @@ I suggest you use the project guides that I have compiled myself especially for 
 
 <table>
   <tr>My 0G_LABS GUIDES</tr>
-  <tr><a href="https://github.com/TempGROX/my_og_validator_guide/blob/main/README.md">
-    <img src="https://img.shields.io/badge/My%200G_LABS%20guide-purple?style=for-the-badge&logo=https%3A%2F%2Fimg.icons8.com%2Fios%2F50%2Fmedium-logo.png&logoColor=white"></a></tr>
+  <tr>
+    <td>
+      <a href="https://github.com/TempGROX/my_og_validator_guide/blob/main/README.md">
+        <img src="https://img.shields.io/badge/My%200G_LABS%20guide-purple?style=for-the-badge&logo=https%3A%2F%2Fimg.icons8.com%2Fios%2F50%2Fmedium-logo.png&logoColor=white">
+      </a>
+    </td>
+  </tr>
 </table>
 
 <h1>About Me</h1>
