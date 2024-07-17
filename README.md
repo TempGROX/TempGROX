@@ -131,6 +131,15 @@ I suggest you use the project guides that I have compiled myself especially for 
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td>
+      <a>
+        <img src="https://img.shields.io/badge/Storage%20KV%20Install%20Gude-purple?style=for-the-badge">
+      </a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 <h1>About Me</h1>
