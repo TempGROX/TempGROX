@@ -21,6 +21,8 @@
 </div>
 <br>
 
+https://img.shields.io/badge/My%20Side%20Protocol%20Guide-black?style=for-the-badge&logo=https%3A%2F%2Fimg.icons8.com%2Fios%2F50%2Fmedium-logo.png&logoColor=white
+
 <table align=center>
   <tr align=center>
     <td align=center>
