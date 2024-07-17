@@ -21,8 +21,6 @@
 </div>
 <br>
 
-https://img.shields.io/badge/My%20Side%20Protocol%20Guide-black?style=for-the-badge&logo=https%3A%2F%2Fimg.icons8.com%2Fios%2F50%2Fmedium-logo.png&logoColor=white
-
 <table align=center>
   <tr align=center>
     <td align=center>
@@ -102,6 +100,12 @@ I suggest you use the project guides that I have compiled myself especially for 
   <a href="https://github.com/TempGROX/my_morph_guide/blob/main/README.md">
     <img src="https://img.shields.io/badge/My%20Morph%20guide-green?style=for-the-badge&logo=https%3A%2F%2Fimg.icons8.com%2Fios%2F50%2Fmedium-logo.png&logoColor=white"></a>
 </div>
+
+<table>
+  <tr>My 0G_LABS GUIDES</tr>
+  <tr><a href="https://github.com/TempGROX/my_og_validator_guide/blob/main/README.md">
+    <img src="https://img.shields.io/badge/My%200G_LABS%20guide-purple?style=for-the-badge&logo=https%3A%2F%2Fimg.icons8.com%2Fios%2F50%2Fmedium-logo.png&logoColor=white"></a></tr>
+</table>
 
 <h1>About Me</h1>
 
