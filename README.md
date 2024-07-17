@@ -166,9 +166,8 @@
 
 <h1>About Me</h1>
 
-🔧 I'm JBrandon, a dedicated professional who specializes in maintaining validator nodes across various testnets. My passion lies in ensuring the stability and security of blockchain infrastructure.
+🔧 I'm JBrandon, I am a professional test validator who has accumulated a lot of knowledge during this time!  I have managed to participate in a huge number of projects, as can be seen from the links above! 
 
-👨‍💻 With a strong background in software development, I craft robust solutions using **Go** and **Python**. My work is driven by a commitment to innovation and excellence in the crypto space.
+If we talk about my achievements, then I have several accepted pull requests: [first](https://github.com/anoma/namada-testnets/pull/2966) and [second](https://github.com/babylonchain/networks/pull/302).
 
-💡 **Vision:**
-I believe in the transformative power of blockchain technology. My goal is to contribute to a decentralized world where security, transparency, and efficiency are paramount.
+As you have already understood, I really like to write guides on projects in which I am currently immersed. Stay with me and you will be completely safe)
