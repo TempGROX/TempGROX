@@ -28,8 +28,17 @@
 👨‍💻 With a strong background in software development, I craft robust solutions using **Go** and **Python**. My work is driven by a commitment to innovation and excellence in the crypto space.
 
 🛠️ **Experience:**
-- **Validator Node Maintenance:** Hands-on experience with multiple testnets, ensuring optimal performance and reliability.
-- **Software Development:** Proficient in Go and Python, I develop software that powers the future of decentralized applications.
+
+<table align=center>
+  <tr align=center>
+    <td align=center>
+      <a href="https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1kuaqagx4qwdsaruapsageu7ngd7964x7wh3d8a">
+        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/ayyW6i94_200x200.jpg">
+        <p><strong>My Initia Validator</strong></p>
+      </a>
+    </td>
+  </tr>
+</table>
 
 💡 **Vision:**
 I believe in the transformative power of blockchain technology. My goal is to contribute to a decentralized world where security, transparency, and efficiency are paramount.
