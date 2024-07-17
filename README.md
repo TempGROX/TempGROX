@@ -119,7 +119,7 @@
       </a>
     </td>
     <td>
-      <a>
+      <a href="https://github.com/TempGROX/Initia-Install-Node-Guide/blob/main/README.md">
         <img src="https://img.shields.io/badge/INITIA%20Install%20Gude-black?style=for-the-badge">
       </a>
     </td>
