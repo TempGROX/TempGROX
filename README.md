@@ -136,7 +136,7 @@
       </a>
     </td>
     <td>
-      <a>
+      <a href="https://github.com/TempGROX/Install-morph-validator-node/blob/main/README.md">
         <img src="https://img.shields.io/badge/Install%20Morph%20Validator%20Node-green?style=for-the-badge">
       </a>
     </td>
