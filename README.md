@@ -53,6 +53,12 @@
         <p><strong>My Juneo Validator</strong></p>
       </a>
     </td>
+    <td align=center>
+      <a href="https://testnet.itrocket.net/empower/staking/empowervaloper1s2m4kutdrlggtztl8vvxx249u7zdqnh6sufclx">
+        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/empower.png">
+        <p><strong>My EmPower Validator</strong></p>
+      </a>
+    </td>
   </tr>
 </table>
 
