@@ -102,7 +102,10 @@ I suggest you use the project guides that I have compiled myself especially for 
 </div>
 
 <table>
-  <tr>My 0G_LABS GUIDES</tr>
+  <tr>
+    <th>0G_LABS GUIDES</th>
+    <th>SIDE PROTOCOL GUIDES</th>
+  </tr>
   <tr>
     <td>
       <a href="https://github.com/TempGROX/my_og_validator_guide/blob/main/README.md">
