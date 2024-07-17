@@ -62,7 +62,7 @@
   </tr>
 </table>
 
-<h1>Projects that I am actively involved in</h1>
+<h1 align=center>Projects that I am actively involved in</h1>
 <table align="center">
   <tr align="center">
     <td align="center" hspace="30">
