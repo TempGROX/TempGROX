@@ -126,7 +126,7 @@
   </tr>
   <tr align=center>
     <td>
-      <a>
+      <a href="https://github.com/TempGROX/Full-0G-DA-install-guide/blob/main/README.md">
         <img src="https://img.shields.io/badge/My%20Full%200G%20DA%20Guide-purple?style=for-the-badge">
       </a>
     </td>
@@ -144,7 +144,7 @@
   </tr>
   <tr align=center>
     <td>
-      <a>
+      <a href="https://github.com/TempGROX/0g-storage-install-guide/blob/main/README.md">
         <img src="https://img.shields.io/badge/0G%20Storage%20Install%20Gude-purple?style=for-the-badge">
       </a>
     </td>
@@ -154,7 +154,7 @@
   </tr>
   <tr align=center>
     <td>
-      <a>
+      <a href="https://github.com/TempGROX/0g-storage-kv-guide/blob/main/README.md">
         <img src="https://img.shields.io/badge/Storage%20KV%20Install%20Gude-purple?style=for-the-badge">
       </a>
     </td>
