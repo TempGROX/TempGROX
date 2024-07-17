@@ -83,6 +83,12 @@
         <p><strong>Morph</strong></p>
       </a>
     </td>
+    <td align="center">
+      <a href="https://initia.xyz/">
+        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/ayyW6i94_200x200.jpg" width="150">
+        <p><strong>Initia</strong></p>
+      </a>
+    </td>
   </tr>
 </table>
 <br>
