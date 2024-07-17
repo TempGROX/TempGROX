@@ -113,6 +113,13 @@ I suggest you use the project guides that I have compiled myself especially for 
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a>
+        <img src="https://img.shields.io/badge/My%20Full%200G%20DA%20Guide-purple?style=for-the-badge">
+      </a>
+    </td>
+  </tr>
 </table>
 
 <h1>About Me</h1>
