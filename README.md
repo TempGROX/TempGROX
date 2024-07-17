@@ -37,6 +37,18 @@
         <p><strong>My Initia Validator</strong></p>
       </a>
     </td>
+    <td align=center>
+      <a href="https://testnet.ping.pub/nillion/staking/nillionvaloper1rultmpvstxlu6eempv0aqg65dqv5evw0xa0n59">
+        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/AdOJJAHw_200x200.jpg">
+        <p><strong>My Nillion Validator</strong></p>
+      </a>
+    </td>
+    <td align=center>
+      <a href="https://testnet.side.explorers.guru/validator/bcvaloper1sd62r6kexzc0q6wvhpkgtmm6w8xlsrenhra6ea">
+        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/images.png">
+        <p><strong>My Side Protocol Validator</strong></p>
+      </a>
+    </td>
   </tr>
 </table>
 
