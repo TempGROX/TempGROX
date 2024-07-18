@@ -178,7 +178,4 @@
 <h1>About Me</h1>
 
 🔧 I'm JBrandon, I am a professional test validator who has accumulated a lot of knowledge during this time!  I have managed to participate in a huge number of projects, as can be seen from the links above! 
-
-If we talk about my achievements, then I have several accepted pull requests: [first](https://github.com/anoma/namada-testnets/pull/2966) and [second](https://github.com/babylonchain/networks/pull/302).
-
 As you have already understood, I really like to write guides on projects in which I am currently immersed. Stay with me and you will be completely safe)
