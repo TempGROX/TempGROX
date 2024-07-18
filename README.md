@@ -68,7 +68,7 @@
   <tr align="center">
     <td align="center" hspace="30">
       <a href="https://side.one/">
-        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(1).png" width="150">
+        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/images.png" width="150">
         <p><strong>Side Protocol</strong></p>
       </a>
     </td>
