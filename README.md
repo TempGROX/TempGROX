@@ -62,7 +62,12 @@
     </td>
   </tr>
 </table>
-
+<ul>
+  In addition, I am proud that I have several accepted pull requests:
+  <li>
+    <p>In the github of the <a href="https://anoma.net/">Anoma project</a>: https://github.com/anoma/namada-testnets/pull/2966</p>
+  </li>
+</ul>
 <h1 align=center>Projects that I am actively involved in</h1>
 <table align="center">
   <tr align="center">
