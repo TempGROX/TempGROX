@@ -80,7 +80,7 @@
     </td>
     <td align="center">
       <a href="https://www.morphl2.io/">
-        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica%20(2).png" width="150">
+        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/MorpLogo_200x200.jpg" width="150">
         <p><strong>Morph</strong></p>
       </a>
     </td>
