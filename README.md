@@ -66,10 +66,10 @@
 <ul>
   In addition, I am proud that I have several accepted pull requests:
   <li>
-    <p><img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/github-mark.png" width=40> In the github of the <a href="https://anoma.net/">Anoma project</a>: https://github.com/anoma/namada-testnets/pull/2966</p>
+    <p><img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/github-mark.png" width=20> In the github of the <a href="https://anoma.net/">Anoma project</a>: https://github.com/anoma/namada-testnets/pull/2966</p>
   </li>
   <li>
-      <p><img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/github-mark.png" width=40> And into the project <a href="https://babylonchain.io/">BabylonChain</a>: https://github.com/babylonchain/networks/pull/302</p>
+      <p><img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/github-mark.png" width=20> And into the project <a href="https://babylonchain.io/">BabylonChain</a>: https://github.com/babylonchain/networks/pull/302</p>
   </li>
 </ul>
 
