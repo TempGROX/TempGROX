@@ -74,7 +74,7 @@
     </td>
     <td align="center">
       <a href="https://0g.ai/">
-        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/rounded-in-photoretrica.png" width="150">
+        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/images.jfif" width="150">
         <p><strong>og_labs</strong></p>
       </a>
     </td>
