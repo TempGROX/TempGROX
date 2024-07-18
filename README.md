@@ -21,6 +21,7 @@
 </div>
 <br>
 
+<h1 align=center>My validator experience</h1>
 <table align=center>
   <tr align=center>
     <td align=center>
