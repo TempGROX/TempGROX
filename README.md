@@ -25,39 +25,45 @@
 <table align=center>
   <tr align=center>
     <td align=center>
-      <a href="https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1kuaqagx4qwdsaruapsageu7ngd7964x7wh3d8a">
-        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/ayyW6i94_200x200.jpg">
-        <p><strong>My Initia Validator</strong></p>
+      <a href="">
+        <img src="https://github.com/user-attachments/assets/275c79df-8316-4bfd-a8be-333094c310ac">
+        <p><strong>Desmos</strong></p>
       </a>
     </td>
     <td align=center>
-      <a href="https://testnet.ping.pub/nillion/staking/nillionvaloper1rultmpvstxlu6eempv0aqg65dqv5evw0xa0n59">
-        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/AdOJJAHw_200x200.jpg">
-        <p><strong>My Nillion Validator</strong></p>
+      <a href="">
+        <img src="https://github.com/user-attachments/assets/9e284419-33f2-427b-a8f8-31958272f81b">
+        <p><strong>Amara</strong></p>
       </a>
     </td>
     <td align=center>
-      <a href="https://testnet.side.explorers.guru/validator/bcvaloper1sd62r6kexzc0q6wvhpkgtmm6w8xlsrenhra6ea">
-        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/images.png" width="200">
-        <p><strong>My Side Protocol Validator</strong></p>
+      <a href="">
+        <img src="https://github.com/user-attachments/assets/6a8e8977-ac87-46ee-9712-f6aef384fc52" width="200">
+        <p><strong>Stride</strong></p>
       </a>
     </td>
     <td align=center>
-      <a href="https://explorer.stavr.tech/Lava-Testnet/staking/lava@valoper1lwyx7akkma0kyejl2tkltw0uekvppez34f6tfq">
-        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/l4oqDz8R_200x200.jpg">
-        <p><strong>My Lava Validator</strong></p>
+      <a href="">
+        <img src="https://github.com/user-attachments/assets/778b1c4a-4e93-4366-bb5f-f99b13837588">
+        <p><strong>Stader</strong></p>
       </a>
     </td>
     <td align=center>
-      <a href="https://genesis.mcnscan.io/chain/6C1AMjvuSpM2ZYjSYHeVyTmuERwQKRCbqMAxhQybWohv9PdaL">
-        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/juneo-200x200.png">
-        <p><strong>My Juneo Validator</strong></p>
+      <a href="">
+        <img src="https://github.com/user-attachments/assets/ce230a10-ee15-4920-9ede-878a080c6ee5">
+        <p><strong>Fairblock</strong></p>
       </a>
     </td>
     <td align=center>
-      <a href="https://testnet.itrocket.net/empower/staking/empowervaloper1s2m4kutdrlggtztl8vvxx249u7zdqnh6sufclx">
-        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/empower.png">
-        <p><strong>My EmPower Validator</strong></p>
+      <a href="">
+        <img src="https://github.com/user-attachments/assets/5d849189-9eaf-4c31-ba4a-3d95bffba0e5">
+        <p><strong>Arkeo</strong></p>
+      </a>
+    </td>
+     <td align=center>
+      <a href="">
+        <img src="https://github.com/user-attachments/assets/feedf064-ee87-435b-a9b0-d101ad07816f">
+        <p><strong>Holograph</strong></p>
       </a>
     </td>
   </tr>
@@ -77,15 +83,15 @@
 <table align="center">
   <tr align="center">
     <td align="center" hspace="30">
-      <a href="https://side.one/">
-        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/images.png" width="150">
-        <p><strong>Side Protocol</strong></p>
+      <a href="https://babylonlabs.io/">
+        <img src="https://github.com/user-attachments/assets/a647889d-5228-45fe-9644-27c2ef451bec" width="150">
+        <p><strong>Babylon</strong></p>
       </a>
     </td>
     <td align="center">
-      <a href="https://0g.ai/">
-        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/images.jfif" width="150">
-        <p><strong>og_labs</strong></p>
+      <a href="https://www.staderlabs.com/">
+        <img src="https://github.com/user-attachments/assets/778b1c4a-4e93-4366-bb5f-f99b13837588" width="150">
+        <p><strong>Stader</strong></p>
       </a>
     </td>
     <td align="center">
@@ -95,9 +101,9 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://initia.xyz/">
-        <img src="https://github.com/TempGROX/TempGROX/blob/main/src/photos/ayyW6i94_200x200.jpg" width="150">
-        <p><strong>Initia</strong></p>
+      <a href="https://www.fairblock.network/">
+        <img src="https://github.com/user-attachments/assets/ce230a10-ee15-4920-9ede-878a080c6ee5" width="150">
+        <p><strong>Fairblock</strong></p>
       </a>
     </td>
   </tr>
@@ -108,71 +114,49 @@
 
 <table align=center>
   <tr align=center>
-    <th>0G_LABS GUIDES</th>
-    <th>SIDE PROTOCOL GUIDES</th>
+    <th>BABYLON GUIDES</th>
+    <th>STADER GUIDES</th>
     <th>MORPH GUIDES</th>
-    <th>INITIA GUIDES</th>
+    <th>FAIRBLOCK GUIDES</th>
   </tr>
   <tr align=center>
     <td>
-      <a href="https://github.com/TempGROX/my_og_validator_guide/blob/main/README.md">
-        <img src="https://img.shields.io/badge/0G%20Validator%20Install%20Gude-purple?style=for-the-badge">
+            <a href="https://link.medium.com/Hv9SCRwvLNb">
+        <p><strong>Deploying MongoDB for Babylon</strong></p>
       </a>
     </td>
     <td>
-      <a href="https://github.com/TempGROX/my_side_protocol_guide/blob/main/README.md">
-        <img src="https://img.shields.io/badge/My%20Side%20Protocol%20Guide-black?style=for-the-badge&logo=https%3A%2F%2Fimg.icons8.com%2Fios%2F50%2Fmedium-logo.png&logoColor=white">
+            <a href="https://link.medium.com/S5cdCbewLNb">
+        <p><strong>Stader Node Setup Guide</strong></p>
       </a>
     </td>
     <td>
-      <a href="https://github.com/TempGROX/my_morph_guide/blob/main/README.md">
-        <img src="https://img.shields.io/badge/Install%20Morph%20Node-green?style=for-the-badge">
+            <a href="https://github.com/TempGROX/my_morph_guide">
+        <p><strong>my_morph_guide</strong></p>
       </a>
     </td>
     <td>
-      <a href="https://github.com/TempGROX/Initia-Install-Node-Guide/blob/main/README.md">
-        <img src="https://img.shields.io/badge/INITIA%20Install%20Gude-black?style=for-the-badge">
+            <a href="https://link.medium.com/z80J996wLNb">
+        <p><strong>Guide to Validating on Fairblock Testnet</strong></p>
       </a>
     </td>
   </tr>
   <tr align=center>
     <td>
-      <a href="https://github.com/TempGROX/Full-0G-DA-install-guide/blob/main/README.md">
-        <img src="https://img.shields.io/badge/My%20Full%200G%20DA%20Guide-purple?style=for-the-badge">
+            <a href="https://github.com/TempGROX/babylon-RabbitMQ">
+        <p><strong>Babylon. RabbitMQ Deployment Guide</strong></p>
       </a>
     </td>
     <td>
-      <a href="https://github.com/TempGROX/Create-Side-Protocol-Validator/blob/main/README.md">
-        <img src="https://img.shields.io/badge/How%20to%20create%20Validator-black?style=for-the-badge">
+             <a href="https://link.medium.com/HKAzalNwLNb">
+        <p><strong>Guide to Stader SD Utility Pool</strong></p>
       </a>
     </td>
     <td>
-      <a href="https://github.com/TempGROX/Install-morph-validator-node/blob/main/README.md">
-        <img src="https://img.shields.io/badge/Install%20Morph%20Validator%20Node-green?style=for-the-badge">
-      </a>
     </td>
     <td></td>
   </tr>
-  <tr align=center>
-    <td>
-      <a href="https://github.com/TempGROX/0g-storage-install-guide/blob/main/README.md">
-        <img src="https://img.shields.io/badge/0G%20Storage%20Install%20Gude-purple?style=for-the-badge">
-      </a>
-    </td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr align=center>
-    <td>
-      <a href="https://github.com/TempGROX/0g-storage-kv-guide/blob/main/README.md">
-        <img src="https://img.shields.io/badge/Storage%20KV%20Install%20Gude-purple?style=for-the-badge">
-      </a>
-    </td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+
 </table>
 
 <h1>About Me</h1>
