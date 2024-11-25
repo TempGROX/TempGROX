@@ -88,6 +88,12 @@
         <p><strong>Babylon</strong></p>
       </a>
     </td>
+        <td align="center" hspace="30">
+      <a href="https://aleo.org/">
+        <img src="https://github.com/user-attachments/assets/a7b66ff7-35d3-44a5-b796-9ddd96eaba17" width="150">
+        <p><strong>Aleo</strong></p>
+      </a>
+    </td>
     <td align="center">
       <a href="https://www.staderlabs.com/">
         <img src="https://github.com/user-attachments/assets/778b1c4a-4e93-4366-bb5f-f99b13837588" width="150">
@@ -118,46 +124,52 @@
     <th>STADER GUIDES</th>
     <th>MORPH GUIDES</th>
     <th>FAIRBLOCK GUIDES</th>
+    <th>ALEO GUIDES</th>
   </tr>
   <tr align=center>
     <td>
-            <a href="https://link.medium.com/Hv9SCRwvLNb">
+      <a href="https://link.medium.com/Hv9SCRwvLNb">
         <p><strong>Deploying MongoDB for Babylon</strong></p>
       </a>
     </td>
     <td>
-            <a href="https://link.medium.com/S5cdCbewLNb">
+      <a href="https://link.medium.com/S5cdCbewLNb">
         <p><strong>Stader Node Setup Guide</strong></p>
       </a>
     </td>
     <td>
-            <a href="https://github.com/TempGROX/my_morph_guide">
+      <a href="https://github.com/TempGROX/my_morph_guide">
         <p><strong>my_morph_guide</strong></p>
       </a>
     </td>
     <td>
-            <a href="https://link.medium.com/z80J996wLNb">
+      <a href="https://link.medium.com/z80J996wLNb">
         <p><strong>Guide to Validating on Fairblock Testnet</strong></p>
+      </a>
+    </td>
+    <td>
+      <a href="https://medium.com/@James_Brandon/getting-started-with-aleo-development-5511113f2f1b">
+        <p><strong>Getting Started with Aleo Development</strong></p>
       </a>
     </td>
   </tr>
   <tr align=center>
     <td>
-            <a href="https://github.com/TempGROX/babylon-RabbitMQ">
+      <a href="https://github.com/TempGROX/babylon-RabbitMQ">
         <p><strong>Babylon. RabbitMQ Deployment Guide</strong></p>
       </a>
     </td>
     <td>
-             <a href="https://link.medium.com/HKAzalNwLNb">
+      <a href="https://link.medium.com/HKAzalNwLNb">
         <p><strong>Guide to Stader SD Utility Pool</strong></p>
       </a>
     </td>
-    <td>
-    </td>
+    <td></td>
+    <td></td>
     <td></td>
   </tr>
-
 </table>
+
 
 <h1>About Me</h1>
 
